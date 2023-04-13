@@ -1,0 +1,4 @@
+# 10-1
+So far what I have learned in python: inputs, numbers, data structures like
+tuple, list, dictionaries, and some logic control methods:
+while, for-loop and so on

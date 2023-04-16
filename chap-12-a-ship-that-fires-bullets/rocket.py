@@ -5,7 +5,7 @@ class Rocket:
     def __init__(self, game) -> None:
         self.screen = game.screen
         self.screen_rect = game.screen.get_rect()
-        self.image = pygame.image.load('images/rocket.bmp')
+        self.image = pygame.image.load('/home/liuqichen/Development/alien-invasion/images/ship.bmp')
         self.rect = self.image.get_rect()
         
         # Make the rocket at the center
